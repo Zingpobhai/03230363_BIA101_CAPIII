@@ -1,5 +1,5 @@
 ################################
-# Github Repo link: https://github.com/Laketsho187/03230152_BIA101_CAPIII
+# Github Repo link:https://github.com/Zingpobhai/03230363_BIA101_CAPIII
 # Your Name: Tshechi Norbu
 # Your Section : B
 # Your Student ID Number: 03230363
